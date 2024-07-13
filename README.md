@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact I think I am funny, and I love making people laugh with my code comments!
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
